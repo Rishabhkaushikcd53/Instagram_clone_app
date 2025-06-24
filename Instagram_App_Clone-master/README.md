@@ -1,6 +1,6 @@
 # Instagram_clone
 
-Instagram Clone (Both frontend and backend) created with Flutter and Firebase.
+Instagram Clone (Both frontend and backend) created with JAVA and Firebase.
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)
 
